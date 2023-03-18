@@ -4,8 +4,8 @@ android {
     compileSdk 33
     defaultConfig {
         applicationId "com.course.example.nooyawk"
-        minSdkVersion 26
-        targetSdkVersion 30
+        minSdkVersion 28
+        targetSdkVersion 33
         versionCode 1
         versionName "1.0"
         multiDexEnabled true
